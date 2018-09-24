@@ -1,0 +1,9 @@
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+
+<i class="fab fa-facebook-f"></i>
+<i class="fab fa-google-plus"></i>
+<i class="fab fa-instagram"></i>
+<i class="fas fa-envelope"></i>
+
+https://icomoon.io/app/#/select/font
+https://i.icomoon.io/public/reference.html#/temp/39a7cbc09a/UntitledProject/
